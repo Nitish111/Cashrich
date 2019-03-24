@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Chashrich Task</string>
+    <string name="title_activity_detail">Detail News</string>
+    <string name="new_feed">News Feed</string>
+</resources>
